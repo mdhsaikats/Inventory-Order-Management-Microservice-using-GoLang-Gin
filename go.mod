@@ -1,4 +1,4 @@
-module main.go
+module github.com/mdhsaikats/Inventory-Order-Management-Microservice-using-GoLang-Gin
 
 go 1.25.0
 
